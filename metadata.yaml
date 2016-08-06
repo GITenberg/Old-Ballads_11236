@@ -1,0 +1,39 @@
+_repo: Old-Ballads_11236
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11236'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folk songs, English'
+- !lcsh 'Ballads, English'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Come, lasses and lads -- Comin' thro' the rye -- Cherry-ripe -- Annie
+  Laurie -- Robin Adair -- Molly Bawn -- Go, happy Rose! -- The anchor's weigh'd --
+  Alice Gray -- Home, sweet home -- John Anderson, my jo -- My pretty Jane -- Rock'd
+  in the cradle of the deep -- The minstrel boy -- On the banks of Allan Water --
+  Auld lang syne -- Within a mile of Edinburgh town -- The night-piece to Julia --
+  Tom Bowling -- My love is like the red red rose -- Widow Malone -- The jolly young
+  waterman -- Caller herrin' -- A hunting we will go -- Hearts of oak -- The fine
+  old English gentleman -- The Bay of Biscay O! -- Black-eyed Susan -- Duncan Gray
+  -- The bailiff's daughter of Islington -- The miller of Dee -- The angel's whisper
+  -- Simon the Cellarer -- Auld Robin Gray -- Bonnie Dundee -- Sally in our alley
+  -- Kitty of Coleraine -- Here's to the maiden of bashful fifteen -- The leather
+  bottel -- Woodman, spare that tree -- The token -- O, wert thou in the cauld blast
+  -- The passionate shepherd to his love -- Lovely Nan -- The lass of Richmond Hill
+  -- Tell me not, sweet -- She wore a wreath of roses -- O Nanny, wilt thou go with
+  me? -- D'ye ken John Peel?
+title: Old Ballads
+url: http://www.gutenberg.org/ebooks/11236
